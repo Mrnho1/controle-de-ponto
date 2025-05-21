@@ -9,5 +9,5 @@ import java.time.LocalDateTime;
 public class RegistroPontoInputDTO {
     private Long funcionarioId;
     private LocalDateTime dataHora;
-    private PunchType tipo;
+    private String tipo;
 }
